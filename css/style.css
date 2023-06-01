@@ -88,9 +88,14 @@ section {
     }
 }
 .home-content h3 {
+    margin-top: 1rem;
     font-size: 3.2rem;
-
     font-weight: 700;
+}
+.home-content h2 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
 }
 .home-content h3:nth-of-type(2) {
     
